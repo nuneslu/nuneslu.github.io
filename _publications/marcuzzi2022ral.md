@@ -3,7 +3,7 @@ title: "Contrastive Instance Association for 4D Panoptic Segmentation using Sequ
 collection: publications
 permalink: /publication/marcuzzi2022ral
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022
+date: 2022-05-01
 venue: 'IEEE Robotics and Automation Letters (RA-L)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.ipb.uni-bonn.de:25000/wp-content/papercite-data/pdf/marcuzzi2022ral.pdf'
