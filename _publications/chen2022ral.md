@@ -3,7 +3,7 @@ title: "Automatic Labeling to Generate Training Data for Online LiDAR-Based Movi
 collection: publications
 permalink: /publication/chen2022ral
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-12-04
+date: 2022-04-12
 venue: 'IEEE Robotics and Automation Letters (RA-L)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.ipb.uni-bonn.de:25000/wp-content/papercite-data/pdf/chen2022ral.pdf'
