@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* 04/2020 - Nov/2020: Software Engineer
+* Apr/2020 - Nov/2020: Software Engineer
   * IVEX
   * Duties includes: Development of front and back-end for a safety assessment tool and urban simulated environments in the context of autonomous vehicles.
 
-* 01/2019 - 04/2020: Technical Leader
+* Jan/2019 - Apr/2020: Technical Leader
   * Juristec+
   * Duties included: Coordination of a web crawler programming team for data collection, and development/maintenance of a back-end database server.
 
-* 01/2018 - 08/2018: Python Developer
+* Jan/2018 - Aug/2018: Python Developer
   * Juristec+
   * Duties included: Development of web crawler Python scripts for data collection.
   
