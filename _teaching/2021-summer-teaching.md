@@ -1,7 +1,7 @@
 ---
 title: "Tutor: Machine Learning for Robotics and Computer Vision"
 collection: teaching
-type: "Undergraduate course"
+type: "Master's program"
 permalink: /teaching/2021-summer-teaching
 venue: "University of Bonn"
 date: 2021-03-01

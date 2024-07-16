@@ -1,7 +1,7 @@
 ---
 title: "Techniques for Self-Driving Cars (Single Lecture)"
 collection: teaching
-type: "Undergraduate course"
+type: "Master's program"
 permalink: /teaching/2023-winter-teaching
 venue: "University of Bonn"
 date: 2023-11-01

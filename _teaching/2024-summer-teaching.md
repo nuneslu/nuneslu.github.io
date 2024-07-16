@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques for Mobile Sensing and Robotics"
 collection: teaching
-type: "Undergraduate course"
+type: "Master's program"
 permalink: /teaching/2024-summer-teaching
 venue: "University of Bonn"
 date: 2024-03-01

@@ -1,7 +1,7 @@
 ---
 title: "MSc Project Supervisor: Open-World Panoptic Segmentation of Traffic Participants"
 collection: teaching
-type: "Undergraduate course"
+type: "Master's program"
 permalink: /teaching/2023-msc-project
 venue: "University of Bonn"
 date: 2023-03-01
