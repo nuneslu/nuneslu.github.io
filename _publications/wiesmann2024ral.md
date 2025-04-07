@@ -1,7 +1,7 @@
 ---
 title: "Joint Intrinsic and Extrinsic Calibration of Perception Systems Utilizing a Calibration Environment"
 collection: publications
-permalink: /publication/wiesmann2024cvpr
+permalink: /publication/wiesmann2024ral
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-09-10
 venue: 'IEEE Robotics and Automation Letters (RA-L)'
