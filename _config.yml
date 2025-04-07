@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "dark"
 title                    : "Lucas Nunes"
 title_separator          : "-"
 name                     : &name "Lucas Nunes"
