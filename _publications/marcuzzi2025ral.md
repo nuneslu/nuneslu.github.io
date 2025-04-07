@@ -6,6 +6,6 @@ permalink: /publication/marcuzzi2025ral
 date: 2025-04-02
 venue: 'IEEE Robotics and Automation Letters (RA-L)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://ieeexplore.ieee.org/document/10947319'
+paperurl: 'https://www.ipb.uni-bonn.de:25000/wp-content/papercite-data/pdf/marcuzzi2025ral.pdf'
 citation: 'R. Marcuzzi, L. Nunes, E. A. Marks, L. Wiesmann, T. Läbe, J. Behley, and C. Stachniss, “SfmOcc: Vision-Based 3D Semantic Occupancy Prediction in Urban Environments,” IEEE Robotics and Automation Letters (RA-L), 2025. doi:10.1109/LRA.2025.3557227'
 ---
