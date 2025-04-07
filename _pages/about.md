@@ -12,12 +12,14 @@ Hi, I'm Lucas Nunes! I'm a Ph.D. student at University of Bonn in Germany, super
 My research interest lies in Generative Models and Representation Learning for large-scale 3D data.
 
 - Representation Learning: My research in the field is related to unsupervised representation learning from unlabeled data in the context of autonomous driving.
-
-<ul><li><a href="https://github.com/PRBonn/TARL" data-type="URL" data-id="https://github.com/PRBonn/TARL">TARL</a>: Temporal Consistent 3D LiDAR Representation Learning for Semantic Perception in Autonomous Driving</li><li><a href="https://github.com/PRBonn/3DUIS" data-type="URL" data-id="https://github.com/PRBonn/3DUIS">3DUIS</a>: Unsupervised class-agnostic instance segmentation for LiDAR data<li><a href="https://github.com/PRBonn/segcontrast" data-type="URL" data-id="https://github.com/PRBonn/segcontrast">SegContrast</a>: Self-supervised pre-training for autonomous driving LiDAR data</li></ul>
+    - [SegContrast](https://github.com/PRBonn/segcontrast): SegContrast: 3D Point Cloud Feature Representation Learning through Self-supervised Segment Discrimination
+    - [TARL](https://github.com/PRBonn/TARL): Temporal Consistent 3D LiDAR Representation Learning for Semantic Perception in Autonomous Driving
+    - [3DUIS](https://github.com/PRBonn/3DUIS): Unsupervised Class-Agnostic Instance Segmentation of 3D LiDAR Data for Autonomous Vehicles
 
 - Generative Models: I have started working with generative models during my master's. Currently, my research is the field is in the area of semantic scene-scale data generation.
+    - [LiDiff](https://github.com/PRBonn/LiDiff): Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion
+    - [3DiSS](https://github.com/PRBonn/3DiSS): Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving
 
-<ul><ul><li><a href="https://github.com/PRBonn/3DiSS" data-type="URL" data-id="https://github.com/PRBonn/3DiSS">3DiSS</a>: Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving</li><li><a href="https://github.com/PRBonn/LiDiff" data-type="URL" data-id="https://github.com/PRBonn/LiDiff">LiDiff</a>: Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion</li></ul></ul>
 
 [CV](https://docs.google.com/gview?url=https://raw.githubusercontent.com/nuneslu/nuneslu.github.io/5d91feede885f90991defc7ebe9de9afed474b92/files/curriculum-vitae.pdf)
 
