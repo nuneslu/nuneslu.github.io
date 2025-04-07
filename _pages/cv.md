@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Extended cv](ihttps://github.com/nuneslu/nuneslu.github.io/blob/master/files/curriculum-vitae.pdf)
+[Extended cv](https://docs.google.com/gview?url=https://raw.githubusercontent.com/nuneslu/nuneslu.github.io/5d91feede885f90991defc7ebe9de9afed474b92/files/curriculum-vitae.pdf)
 
 Education
 ======
