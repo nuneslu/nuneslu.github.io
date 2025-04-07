@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+[Extended cv](ihttps://github.com/nuneslu/nuneslu.github.io/blob/master/files/curriculum-vitae.pdf)
+
 Education
 ======
-* Ph.D in 3D Representation Learning and Semantic Scene Understanding, University of Bonn, 2026 (expected)
+* Ph.D, University of Bonn, 2026 (expected)
 * M.S. in Computer Science, University of São Paulo, 2020
 * B.S. in Computer Science, University of São Paulo, 2018
 
