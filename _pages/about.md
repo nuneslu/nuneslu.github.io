@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm Lucas Nunes! I'm a Ph.D. student at University of Bonn in Germany, supervised by Prof. Dr. Cyrill Stachniss. I did my Master's at University of São Paulo in Brazil where I was born. Besides a researcher, I'm an photography enthusiast and like to play video games.
 
-My research interest lies in Generative Models and Representation Learning for large-scale 3D data.
+My research interest lies in Generative Models and Representation Learning for large-scale 3D data in autonomous driving context (but not only).
 
 - Representation Learning: My research in the field is related to unsupervised representation learning from unlabeled data in the context of autonomous driving.
     - [SegContrast](https://github.com/PRBonn/segcontrast): SegContrast: 3D Point Cloud Feature Representation Learning through Self-supervised Segment Discrimination
