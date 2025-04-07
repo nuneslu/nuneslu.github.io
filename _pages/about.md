@@ -11,12 +11,12 @@ Hi, I'm Lucas Nunes! I'm a Ph.D. student at University of Bonn in Germany, super
 
 My research interest lies in Generative Models and Representation Learning for large-scale 3D data in autonomous driving context (but not only).
 
-- Representation Learning: My research in the field is related to unsupervised representation learning from unlabeled data in the context of autonomous driving.
+- **Representation Learning**: My research in the field is related to unsupervised representation learning from unlabeled data in the context of autonomous driving.
     - [SegContrast](https://github.com/PRBonn/segcontrast): SegContrast: 3D Point Cloud Feature Representation Learning through Self-supervised Segment Discrimination
     - [TARL](https://github.com/PRBonn/TARL): Temporal Consistent 3D LiDAR Representation Learning for Semantic Perception in Autonomous Driving
     - [3DUIS](https://github.com/PRBonn/3DUIS): Unsupervised Class-Agnostic Instance Segmentation of 3D LiDAR Data for Autonomous Vehicles
 
-- Generative Models: I have started working with generative models during my master's. Currently, my research is the field is in the area of semantic scene-scale data generation.
+- **Generative Models**: I have started working with generative models during my master's. Currently, my research in the field is in the area of semantic scene-scale data generation.
     - [LiDiff](https://github.com/PRBonn/LiDiff): Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion
     - [3DiSS](https://github.com/PRBonn/3DiSS): Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving
 
