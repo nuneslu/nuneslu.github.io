@@ -21,5 +21,5 @@ My research interest lies in Generative Models and Representation Learning for l
     - [3DiSS](https://github.com/PRBonn/3DiSS): Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving
 
 
-[CV](https://docs.google.com/gview?url=https://raw.githubusercontent.com/nuneslu/nuneslu.github.io/5d91feede885f90991defc7ebe9de9afed474b92/files/curriculum-vitae.pdf)
+[CV](https://docs.google.com/gview?url=https://raw.githubusercontent.com/nuneslu/nuneslu.github.io/7785f1f959b9e5c96c945d133d32179ed86856b9/files/curriculum-vitae.pdf)
 
