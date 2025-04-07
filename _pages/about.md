@@ -13,7 +13,7 @@ My research interest lies in Generative Models and Representation Learning for l
 
 - Representation Learning: My research in the field is related to unsupervised representation learning from unlabeled data in the context of autonomous driving.
 
-<li><a href="https://github.com/PRBonn/TARL" data-type="URL" data-id="https://github.com/PRBonn/TARL">TARL</a>: Temporal Consistent 3D LiDAR Representation Learning for Semantic Perception in Autonomous Driving</li><li><a href="https://github.com/PRBonn/3DUIS" data-type="URL" data-id="https://github.com/PRBonn/3DUIS">3DUIS</a>: Unsupervised class-agnostic instance segmentation for LiDAR data<li><a href="https://github.com/PRBonn/segcontrast" data-type="URL" data-id="https://github.com/PRBonn/segcontrast">SegContrast</a>: Self-supervised pre-training for autonomous driving LiDAR data</li>
+<ul><li><a href="https://github.com/PRBonn/TARL" data-type="URL" data-id="https://github.com/PRBonn/TARL">TARL</a>: Temporal Consistent 3D LiDAR Representation Learning for Semantic Perception in Autonomous Driving</li><li><a href="https://github.com/PRBonn/3DUIS" data-type="URL" data-id="https://github.com/PRBonn/3DUIS">3DUIS</a>: Unsupervised class-agnostic instance segmentation for LiDAR data<li><a href="https://github.com/PRBonn/segcontrast" data-type="URL" data-id="https://github.com/PRBonn/segcontrast">SegContrast</a>: Self-supervised pre-training for autonomous driving LiDAR data</li></ul>
 
 - Generative Models: I have started working with generative models during my master's. Currently, my research is the field is in the area of semantic scene-scale data generation.
 
