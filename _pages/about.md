@@ -21,6 +21,7 @@ My research interest lies in Generative Models and Representation Learning for l
     - [3DiSS](https://github.com/PRBonn/3DiSS): Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving
 
 Besides the main projects that I have worked during my Ph.D. as first author listed above, I have also collaborated on other perception related projects with open-sourced code listed below:
+
     - [ContMAV](https://github.com/PRBonn/ContMAV): Open-World Semantic Segmentation Including Class Similarity
     - [Mask4D](https://github.com/PRBonn/Mask4D): End-to-End Mask-Based 4D Panoptic Segmentation for LiDAR Sequences
     - [MaskPLS](https://github.com/PRBonn/MaskPLS): Mask-Based Panoptic LiDAR Segmentation for Autonomous Driving
