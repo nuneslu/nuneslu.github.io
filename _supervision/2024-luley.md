@@ -2,7 +2,7 @@
 title: "Novel View Synthesis of Indoor Dynamic Scenes"
 collection: supervision
 type: "Master Thesis"
-permalink: /teaching/2024-summer-teaching
+permalink: /supervision/2024-luley
 venue: "University of Zurich"
 date: 2024-08-01
 location: "Bonn, Germany"
