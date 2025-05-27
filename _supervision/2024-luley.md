@@ -8,4 +8,4 @@ date: 2024-08-01
 location: "Bonn, Germany"
 ---
 
-Supervised the Master's thesis of a student from the University of Zurich
+Supervised the Master's thesis of a student from the University of Zurich.
