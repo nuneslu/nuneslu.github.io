@@ -20,6 +20,13 @@ My research interest lies in Generative Models and Representation Learning for l
     - [LiDiff](https://github.com/PRBonn/LiDiff): Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion
     - [3DiSS](https://github.com/PRBonn/3DiSS): Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving
 
+Besides the main projects that I have worked during my Ph.D. as first author listed above, I have also collaborated on other perception related projects with open-sourced code listed below:
+    - [ContMAV](https://github.com/PRBonn/ContMAV): Open-World Semantic Segmentation Including Class Similarity
+    - [Mask4D](https://github.com/PRBonn/Mask4D): End-to-End Mask-Based 4D Panoptic Segmentation for LiDAR Sequences
+    - [MaskPLS](https://github.com/PRBonn/MaskPLS): Mask-Based Panoptic LiDAR Segmentation for Autonomous Driving
+    - [KPPR](https://github.com/PRBonn/kppr): Exploiting Momentum Contrast for Point Cloud-Based Place Recognition
+    - [4DMOS](https://github.com/PRBonn/4DMOS): Receding Moving Object Segmentation in 3D LiDAR Data Using Sparse 4D Convolutions
+    - [Auto-MOS](https://github.com/PRBonn/auto-mos): Automatic Labeling to Generate Training Data for Online LiDAR-based Moving Object Segmentation
 
 Link to my [CV](https://docs.google.com/gview?url=https://raw.githubusercontent.com/nuneslu/nuneslu.github.io/7785f1f959b9e5c96c945d133d32179ed86856b9/files/curriculum-vitae.pdf).
 
