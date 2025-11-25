@@ -8,4 +8,4 @@ date: 2024-03-01
 location: "Bonn, Germany"
 ---
 
-Gave lectures from the photogrammetry related topics in the Advanced Techniques for Mobile Sensing and Robotics [course](https://www.ipb.uni-bonn.de/msr2-2021/index.html) together with Prof. Dr. Cyrill Stachniss.
+Shared teaching together with Prof. Dr. Cyrill Stachniss in the Advanced Techniques for Mobile Sensing and Robotics [course](https://www.ipb.uni-bonn.de/msr2-2021/index.html).

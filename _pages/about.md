@@ -28,5 +28,5 @@ My research interest lies in Generative Models and Representation Learning for l
     - [4DMOS](https://github.com/PRBonn/4DMOS): Receding Moving Object Segmentation in 3D LiDAR Data Using Sparse 4D Convolutions
     - [Auto-MOS](https://github.com/PRBonn/auto-mos): Automatic Labeling to Generate Training Data for Online LiDAR-based Moving Object Segmentation
 
-Link to my [CV](https://docs.google.com/gview?url=https://raw.githubusercontent.com/nuneslu/nuneslu.github.io/530b330a3c963a5f14da72724737c4e64d61c863/files/curriculum-vitae.pdf).
+Link to my [CV](https://nuneslu.github.io/files/curriculum-vitae.pdf).
 
