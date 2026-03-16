@@ -13,11 +13,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D, University of Bonn, 2026 (expected)
+* Ph.D, University of Bonn, 2026
 * M.S. in Computer Science, University of São Paulo, 2020
 * B.S. in Computer Science, University of São Paulo, 2018
 
-Work experience
+Academic Positions
+======
+
+* Mar/2026 - Present - Postdoctoral Researcher
+  * RWTH Aachen University
+
+* Nov/2020 - Dec/2025 - Research Assistant
+  * University of Bonn
+
+Industry Experience
 ======
 * Apr/2020 - Nov/2020: Software Engineer
   * IVEX
