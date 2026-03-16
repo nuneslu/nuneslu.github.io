@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Lucas Nunes"
   pronouns         : # example: "she/her"  
-  bio              : "Research assistant and Ph.D candidate at the University of Bonn. Previously, I've done my Bachelor in Computer Science and Master's degree at the University of São Paulo (USP) in Brazil."
-  location         : "Bonn, Germany"
-  employer         : "University of Bonn"
+  bio              : "Postdoctoral researcher at RWTH Aachen University. Previously, I've completed my PhD at the University of Bonn."
+  location         : "Aachen, Germany"
+  employer         : "RWTH Aachen University"
   uri              : # URL
-  email            : "lucas.nunes@uni-bonn.de" 
+  email            : "nunes@vision.rwth-aachen.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
