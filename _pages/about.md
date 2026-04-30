@@ -13,5 +13,16 @@ My research interest lies in Generative Models and Representation Learning for m
 
 You can find my open-source repositories on the [Projects](/projects/) page.
 
+## News
+
+Latest updates (newest first):
+
+- **2026-04** — Award: Received **Faculty Award** from the University of Bonn for [3DiSS](https://nuneslu.github.io/publication/nunes2026tpami) paper.
+- **2026-02** — [3DiSS](https://github.com/PRBonn/3DiSS) accepted to **TPAMI**.
+- **2026-01** — [SfmPanOcc](https://github.com/PRBonn/SfmPanOcc) accepted to **ICRA'26**.
+- **2025-10** — [WaW](https://github.com/PRBonn/WeedsAreWeird) selected as one of the Finalist for the Best Agri-Robotics Paper Award at **IROS'25**
+- **2025-06** — [DiffTS](https://github.com/PRBonn/DiffTS) accepted to **ICCV'25**.
+- **2025-06** — [WaW](https://github.com/PRBonn/WeedsAreWeird) accepted to **IROS'25**.
+
 Link to my [CV](https://nuneslu.github.io/files/curriculum-vitae.pdf).
 
