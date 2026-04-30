@@ -17,7 +17,7 @@ Link to my [CV](https://nuneslu.github.io/files/curriculum-vitae.pdf).
 
 ## News
 
-Latest updates (newest first):
+Latest updates:
 
 - **2026-04** — Received **Faculty Award** from the University of Bonn for the [3DiSS](https://nuneslu.github.io/publication/nunes2026tpami) paper.
 - **2026-02** — [3DiSS](https://github.com/PRBonn/3DiSS) accepted to **TPAMI**.
