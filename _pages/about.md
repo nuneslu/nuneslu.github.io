@@ -22,7 +22,7 @@ Latest updates (newest first):
 - **2026-04** — Received **Faculty Award** from the University of Bonn for the [3DiSS](https://nuneslu.github.io/publication/nunes2026tpami) paper.
 - **2026-02** — [3DiSS](https://github.com/PRBonn/3DiSS) accepted to **TPAMI**.
 - **2026-01** — [SfmPanOcc](https://github.com/PRBonn/SfmPanOcc) accepted to **ICRA'26**.
-- **2025-10** — [WaW](https://github.com/PRBonn/WeedsAreWeird) selected as one of the Finalist for the Best Agri-Robotics Paper Award at **IROS'25**
+- **2025-10** — [WaW](https://github.com/PRBonn/WeedsAreWeird) selected as Finalist for the Best Agri-Robotics Paper Award at **IROS'25**.
 - **2025-06** — [DiffTS](https://github.com/PRBonn/DiffTS) accepted to **ICCV'25**.
 - **2025-06** — [WaW](https://github.com/PRBonn/WeedsAreWeird) accepted to **IROS'25**.
 
