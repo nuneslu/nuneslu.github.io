@@ -19,6 +19,7 @@ Link to my [CV](https://nuneslu.github.io/files/curriculum-vitae.pdf).
 
 Latest updates:
 
+- **2026-06** — [RAP](https://github.com/PRBonn/RAP) and [TASE](https://arxiv.org/pdf/2606.03314) accepted to **ECCV'26**.
 - **2026-04** — Received **Faculty Award** from the University of Bonn for the [3DiSS](https://nuneslu.github.io/publication/nunes2026tpami) paper.
 - **2026-02** — [3DiSS](https://github.com/PRBonn/3DiSS) accepted to **TPAMI**.
 - **2026-01** — [SfmPanOcc](https://github.com/PRBonn/SfmPanOcc) accepted to **ICRA'26**.
