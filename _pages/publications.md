@@ -9,8 +9,8 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-- Y. Pan, T. Sun, L. Zhu, L. Nunes, I. Armeni, J. Behley, and C. Stachniss, “Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching,” arXiv preprint, arXiv:2512.01850, 2026. \[[Paper](https://arxiv.org/pdf/2606.03314)\]\[[Code](https://github.com/PRBonn/RAP)\]
-- T. Faasch, J. Kall, L. Nunes, J. Behley, and C. Stachniss, “TASE: Truncation-Aware Semantic Embeddings for 3D Scene Understanding and Editing,” arXiv preprint, arXiv:2606.03314, 2026. \[[Paper](https://arxiv.org/pdf/2606.03314)\]
+- Y. Pan, T. Sun, L. Zhu, L. Nunes, I. Armeni, J. Behley, and C. Stachniss, “Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching,” Proc. of the Europ. Conf. on Computer Vision (ECCV), 2026. \[[Paper](https://arxiv.org/pdf/2606.03314)\]\[[Code](https://github.com/PRBonn/RAP)\]
+- T. Faasch, J. Kall, L. Nunes, J. Behley, and C. Stachniss, “TASE: Truncation-Aware Semantic Embeddings for 3D Scene Understanding and Editing,” Proc. of the Europ. Conf. on Computer Vision (ECCV), 2026. \[[Paper](https://arxiv.org/pdf/2606.03314)\]
 - K. Knaebel, G. M. Garcia, C. Schmidt, I. Fradlin, L. Nunes, D. de Geus, B. Leibe, “SurGe: Improved Surface Geometry in Point Maps,” arXiv preprint, arXiv:2605.31577, 2026. \[[Paper](https://arxiv.org/pdf/2605.31577)\]
 - L. Nunes, R. Marcuzzi, J. Behley, and C. Stachniss, “Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving,” IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 2026. \[[Paper](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/nunes2026tpami.pdf)\]
 - R. Marcuzzi, L. Nunes, E. A. Marks, X. Zhong, J. Behley, and C. Stachniss, “Vision-Based Panoptic Occupancy Prediction in Urban Environments,” in Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA), 2026. \[[Paper](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/marcuzzi2026icra.pdf)\]
