@@ -19,6 +19,8 @@ Link to my [CV](https://nuneslu.github.io/files/curriculum-vitae.pdf).
 
 Latest updates:
 
+- **2026-09** — [SurGe](https://github.com/karimknaebel/surge) accepted to **NeurIPS'26**.
+- **2026-08** — [RAP](https://github.com/PRBonn/RAP) selected Best Paper Award Finalist at **ECCV'26**.
 - **2026-08** — [RAP](https://github.com/PRBonn/RAP) selected for Long Oral Presentation at **ECCV'26**.
 - **2026-06** — [RAP](https://github.com/PRBonn/RAP) and [TASE](https://arxiv.org/pdf/2606.03314) accepted to **ECCV'26**.
 - **2026-04** — Received **Faculty Award** from the University of Bonn for the [3DiSS](https://nuneslu.github.io/publication/nunes2026tpami) paper.
