@@ -19,6 +19,7 @@ Link to my [CV](https://nuneslu.github.io/files/curriculum-vitae.pdf).
 
 Latest updates:
 
+- **2026-10** — Recognized as one of the **Top Reviewers** for **NeurIPS'26**.
 - **2026-09** — [SurGe](https://github.com/karimknaebel/surge) accepted to **NeurIPS'26**.
 - **2026-08** — [RAP](https://github.com/PRBonn/RAP) selected Best Paper Award Finalist at **ECCV'26**.
 - **2026-08** — [RAP](https://github.com/PRBonn/RAP) selected for Long Oral Presentation at **ECCV'26**.
